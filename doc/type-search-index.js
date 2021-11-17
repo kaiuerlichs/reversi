@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"ComputerPlayer"},{"p":"<Unnamed>","l":"Game"},{"p":"<Unnamed>","l":"Grid"},{"p":"<Unnamed>","l":"HumanPlayer"},{"p":"<Unnamed>","l":"InputOutput"},{"p":"<Unnamed>","l":"Piece"},{"p":"<Unnamed>","l":"Player"},{"p":"<Unnamed>","l":"ReversiApp"},{"p":"<Unnamed>","l":"Statistic"}]
